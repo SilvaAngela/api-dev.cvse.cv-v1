@@ -147,23 +147,23 @@
             "imei": "12333",
             "assistanceId": 34,
             "collaboratorId": 5,
-            "collaborator": "Inês",
+            "collaborator": null,
             "cityId": 1,
             "city": null,
-         "status": 1
+            "status":0
         },
          {
-            "assistanceNotificationId": 34,
+            "assistanceNotificationId": 33,
             "description": "XPT 3",
             "latitude": "0900",
             "longitude": "00000",
             "imei": "12333",
             "assistanceId": 1,
             "collaboratorId": 5,
-            "collaborator": "Maria",
+            "collaborator": null,
             "cityId": 33,
             "city": null,
-          "status": 0
+            "status":1
         },
          {
             "assistanceNotificationId": 32,
@@ -173,10 +173,10 @@
             "imei": "12333",
             "assistanceId": 32,
             "collaboratorId": 5,
-            "collaborator": "João",
+            "collaborator": null,
             "cityId": 1,
-            "city": null
-          "status": 0
+            "city": null,
+            "status":0
         },
          {
             "assistanceNotificationId": 31,
@@ -186,10 +186,10 @@
             "imei": "12333",
             "assistanceId": 31,
             "collaboratorId": 5,
-            "collaborator": "Catarina",
+            "collaborator": null,
             "cityId": 1,
             "city": null,
-          "status": 0
+            "status":0
         }
     ]
 
