@@ -149,8 +149,7 @@
             "collaboratorId": 5,
             "collaborator": null,
             "cityId": 1,
-            "city": null,
-            "status":0
+            "city": null
         },
          {
             "assistanceNotificationId": 33,
@@ -162,8 +161,7 @@
             "collaboratorId": 5,
             "collaborator": null,
             "cityId": 33,
-            "city": null,
-            "status":1
+            "city": null
         },
          {
             "assistanceNotificationId": 32,
@@ -175,8 +173,7 @@
             "collaboratorId": 5,
             "collaborator": null,
             "cityId": 1,
-            "city": null,
-            "status":0
+            "city": null
         },
          {
             "assistanceNotificationId": 31,
@@ -188,8 +185,7 @@
             "collaboratorId": 5,
             "collaborator": null,
             "cityId": 1,
-            "city": null,
-            "status":0
+            "city": null
         }
     ]
 
