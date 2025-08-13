@@ -147,7 +147,7 @@
             "imei": "12333",
             "assistanceId": 34,
             "collaboratorId": 5,
-            "collaborator": null,
+            "collaborator": "Maria",
             "cityId": 1,
             "city": null,
             "status": 0
@@ -161,7 +161,7 @@
             "imei": "12333",
             "assistanceId": 1,
             "collaboratorId": 5,
-            "collaborator": null,
+            "collaborator": "João",
             "cityId": 33,
             "city": null,
             "status": 1
@@ -174,7 +174,7 @@
             "imei": "12333",
             "assistanceId": 32,
             "collaboratorId": 5,
-            "collaborator": null,
+            "collaborator": "Paulo",
             "cityId": 1,
             "city": null,
             "status": 0
@@ -187,7 +187,7 @@
             "imei": "12333",
             "assistanceId": 31,
             "collaboratorId": 5,
-            "collaborator": null,
+            "collaborator": "Maria",
             "cityId": 1,
             "city": null,
             "status": 0
