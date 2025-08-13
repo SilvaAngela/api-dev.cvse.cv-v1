@@ -4,67 +4,6 @@
  
     "Assistance": [
        
-       
-        {
-            "assistanceId": 7,
-            "description": "Ola obs 01",
-            "startDate": "2025-07-22T09:37:57.21Z",
-            "finalDate": "2025-07-22T20:37:57.21Z",
-            "numberOfPerson": 121,
-            "itinerary": "Plato/Palmarejo/Cidade Velha 12",
-            "latitude": "0",
-            "longitude": "0",
-            "note": "",
-            "emergencyContact": "9234562",
-            "serviceGuideResponsible": "Belarmino Silva",
-            "status": 0,
-            "isDefaut": false,
-            "assistanceTypeId": 1,
-            "assistanceType": {
-                "assistanceTypeId": 1,
-                "name": "Teste1111"
-            },
-            "clientId": 14,
-            "client": null,
-            "cityId": 8,
-            "city": {
-                "cityId": 8,
-                "name": "Tarrafal",
-                "islandId": 8,
-                "island": null
-            },
-            "collaboratorId": null
-        },
-        {
-            "assistanceId": 6,
-            "description": "dsdsds",
-            "startDate": "2025-07-22T10:37:57.21Z",
-            "finalDate": "2025-07-22T22:37:57.21Z",
-            "numberOfPerson": 10,
-            "itinerary": "Plato/Palmarejo/Cidade Velha 1",
-            "latitude": "0",
-            "longitude": "0",
-            "note": "",
-            "emergencyContact": "9234561",
-            "serviceGuideResponsible": "Belarmino Silva ",
-            "status": 0,
-            "isDefaut": false,
-            "assistanceTypeId": 3,
-            "assistanceType": {
-                "assistanceTypeId": 3,
-                "name": "dsdsds22222"
-            },
-            "clientId": 14,
-            "client": null,
-            "cityId": 2,
-            "city": {
-                "cityId": 2,
-                "name": "Mindelo",
-                "islandId": 2,
-                "island": null
-            },
-            "collaboratorId": null
-        },
         {
             "assistanceId": 5,
             "description": "dsdsds",
