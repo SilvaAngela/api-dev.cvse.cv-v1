@@ -150,7 +150,8 @@
             "collaborator": "Maria",
             "cityId": 1,
             "city": null,
-            "status": 0
+            "status": 0,
+            "date":"2025-08-12T12:00:00Z"
 
         },
          {
@@ -164,7 +165,8 @@
             "collaborator": "João",
             "cityId": 33,
             "city": null,
-            "status": 1
+            "status": 1,
+            "date":"2025-08-11T19:00:00Z"
         },
          {
             "assistanceNotificationId": 32,
@@ -177,7 +179,8 @@
             "collaborator": "Paulo",
             "cityId": 1,
             "city": null,
-            "status": 0
+            "status": 0,
+            "date":"2025-08-12T13:00:00Z"
         },
          {
             "assistanceNotificationId": 31,
@@ -190,7 +193,8 @@
             "collaborator": "Maria",
             "cityId": 1,
             "city": null,
-            "status": 0
+            "status": 0,
+            "date":"2025-08-13T12:00:00Z"
         }
     ]
 
