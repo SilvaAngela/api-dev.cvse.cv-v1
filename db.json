@@ -1,7 +1,9 @@
 
 
 {
- "Assistance":{"statusCode": 200,
+ "Assistance":
+ {
+  "statusCode": 200,
     "title": "Get All Assistance",
     "timeStamp": "2025-08-12T21:34:08.400202-01:00",
     "message":
@@ -129,6 +131,29 @@
     ]
  }
 ,
+
+"AssistanceNotification":
+{
+     
+    "statusCode": 200,
+    "title": "Get All Assistance Notifications",
+    "timeStamp": "2025-08-12T21:34:36.154995-01:00",
+    "message": [
+        {
+            "assistanceNotificationId": 1,
+            "description": "XPT",
+            "latitude": "0900",
+            "longitude": "00000",
+            "imei": "12333",
+            "assistanceId": 1,
+            "collaboratorId": 5,
+            "collaborator": null,
+            "cityId": 1,
+            "city": null
+        }
+    ]
+
+},
   "comments": [
     {
       "id": 1,
