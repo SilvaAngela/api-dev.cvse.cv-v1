@@ -147,7 +147,7 @@
             "imei": "12333",
             "assistanceId": 34,
             "collaboratorId": 5,
-            "collaborator": null,
+            "collaborator": "Inês",
             "cityId": 1,
             "city": null
         },
@@ -159,7 +159,7 @@
             "imei": "12333",
             "assistanceId": 1,
             "collaboratorId": 5,
-            "collaborator": null,
+            "collaborator": "Maria",
             "cityId": 33,
             "city": null
         },
@@ -171,7 +171,7 @@
             "imei": "12333",
             "assistanceId": 32,
             "collaboratorId": 5,
-            "collaborator": null,
+            "collaborator": "João",
             "cityId": 1,
             "city": null
         },
@@ -183,7 +183,7 @@
             "imei": "12333",
             "assistanceId": 31,
             "collaboratorId": 5,
-            "collaborator": null,
+            "collaborator": "Catarina",
             "cityId": 1,
             "city": null
         }
