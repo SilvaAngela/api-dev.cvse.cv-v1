@@ -2,7 +2,7 @@
 
 {
  
-    "Assistance": [
+    "Assistance":{ [
       
 
         {
@@ -126,6 +126,7 @@
             "collaboratorId": null
         }
     ]
+}
 ,
   "comments": [
     {
