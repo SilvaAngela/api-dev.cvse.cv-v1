@@ -150,7 +150,7 @@
             "collaborator": "Inês",
             "cityId": 1,
             "city": null,
-         "status": 1,
+         "status": 1
         },
          {
             "assistanceNotificationId": 34,
@@ -163,7 +163,7 @@
             "collaborator": "Maria",
             "cityId": 33,
             "city": null,
-          "status": 0,
+          "status": 0
         },
          {
             "assistanceNotificationId": 32,
@@ -176,7 +176,7 @@
             "collaborator": "João",
             "cityId": 1,
             "city": null
-          "status": 0,
+          "status": 0
         },
          {
             "assistanceNotificationId": 31,
@@ -189,7 +189,7 @@
             "collaborator": "Catarina",
             "cityId": 1,
             "city": null,
-          "status": 0,
+          "status": 0
         }
     ]
 
