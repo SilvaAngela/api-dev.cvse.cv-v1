@@ -1,8 +1,11 @@
 
 
 {
- 
-    "Assistance":[
+ "Assistance":{"statusCode": 200,
+    "title": "Get All Assistance",
+    "timeStamp": "2025-08-12T21:34:08.400202-01:00",
+    "message":
+    [
       
 
         {
@@ -126,7 +129,7 @@
             "collaboratorId": null
         }
     ]
-
+ }
 ,
   "comments": [
     {
