@@ -195,6 +195,42 @@
     ]
 
 },
+
+
+"City":
+{
+     
+    "statusCode": 200,
+    "title": "Get All Cities",
+    "timeStamp": "2025-08-12T21:34:36.154995-01:00",
+    "message": [
+         { "id": 1, "name": "Praia" },
+  { "id": 2, "name": "Mindelo" },
+  { "id": 3, "name": "Santa Maria" },
+  { "id": 4, "name": "Espargos" },
+  { "id": 5, "name": "Assomada" },
+  { "id": 6, "name": "Pedra Badejo" },
+  { "id": 7, "name": "Porto Novo" },
+  { "id": 8, "name": "São Filipe" },
+  { "id": 9, "name": "Sal Rei" },
+  { "id": 10, "name": "Cova Figueira" },
+  { "id": 11, "name": "Ribeira Brava" },
+  { "id": 12, "name": "Ponta do Sol" },
+  { "id": 13, "name": "Cidadе Velha" },
+  { "id": 14, "name": "Calheta de São Miguel" },
+  { "id": 15, "name": "João Teves" },
+  { "id": 16, "name": "Pombas" },
+  { "id": 17, "name": "Nova Sintra" },
+  { "id": 18, "name": "São Domingos" },
+  { "id": 19, "name": "Tarrafal (Santiago)" },
+  { "id": 20, "name": "Tarrafal de São Nicolau" },
+  { "id": 21, "name": "Porto Inglês" },
+  { "id": 22, "name": "Ribeira Grande (Santo Antão)" },
+  { "id": 23, "name": "São Miguel" }, 
+  { "id": 24, "name": "Santa Cruz" }
+    ]
+
+},
   "comments": [
     {
       "id": 1,
