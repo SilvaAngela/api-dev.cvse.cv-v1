@@ -4,36 +4,7 @@
  
     "Assistance": [
       
-        {
-            "assistanceId": 5,
-            "description": "dsdsds",
-            "startDate": "2025-07-22T10:37:57.21Z",
-            "finalDate": "2025-07-22T22:37:57.21Z",
-            "numberOfPerson": 10,
-            "itinerary": "Plato/Palmarejo/Cidade Velha",
-            "latitude": "0",
-            "longitude": "0",
-            "note": "",
-            "emergencyContact": "9234561",
-            "serviceGuideResponsible": "Belarmino Silva",
-            "status": 0,
-            "isDefaut": false,
-            "assistanceTypeId": 3,
-            "assistanceType": {
-                "assistanceTypeId": 3,
-                "name": "dsdsds22222"
-            },
-            "clientId": 14,
-            "client": null,
-            "cityId": 3,
-            "city": {
-                "cityId": 3,
-                "name": "Espargos",
-                "islandId": 5,
-                "island": null
-            },
-            "collaboratorId": null
-        },
+
         {
             "assistanceId": 4,
             "description": "dsdsds",
