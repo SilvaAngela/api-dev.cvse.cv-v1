@@ -140,8 +140,44 @@
     "timeStamp": "2025-08-12T21:34:36.154995-01:00",
     "message": [
         {
-            "assistanceNotificationId": 1,
-            "description": "XPT",
+            "assistanceNotificationId": 34,
+            "description": "XPT 4",
+            "latitude": "0900",
+            "longitude": "00000",
+            "imei": "12333",
+            "assistanceId": 1,
+            "collaboratorId": 5,
+            "collaborator": null,
+            "cityId": 1,
+            "city": null
+        },
+         {
+            "assistanceNotificationId": 33,
+            "description": "XPT 3",
+            "latitude": "0900",
+            "longitude": "00000",
+            "imei": "12333",
+            "assistanceId": 1,
+            "collaboratorId": 5,
+            "collaborator": null,
+            "cityId": 1,
+            "city": null
+        },
+         {
+            "assistanceNotificationId": 32,
+            "description": "XPT 2",
+            "latitude": "0900",
+            "longitude": "00000",
+            "imei": "12333",
+            "assistanceId": 1,
+            "collaboratorId": 5,
+            "collaborator": null,
+            "cityId": 1,
+            "city": null
+        },
+         {
+            "assistanceNotificationId": 31,
+            "description": "XPT 1",
             "latitude": "0900",
             "longitude": "00000",
             "imei": "12333",
