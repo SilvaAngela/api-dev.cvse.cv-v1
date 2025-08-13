@@ -149,10 +149,11 @@
             "collaboratorId": 5,
             "collaborator": "Inês",
             "cityId": 1,
-            "city": null
+            "city": null,
+         "status": 1,
         },
          {
-            "assistanceNotificationId": 33,
+            "assistanceNotificationId": 34,
             "description": "XPT 3",
             "latitude": "0900",
             "longitude": "00000",
@@ -161,7 +162,8 @@
             "collaboratorId": 5,
             "collaborator": "Maria",
             "cityId": 33,
-            "city": null
+            "city": null,
+          "status": 0,
         },
          {
             "assistanceNotificationId": 32,
@@ -174,6 +176,7 @@
             "collaborator": "João",
             "cityId": 1,
             "city": null
+          "status": 0,
         },
          {
             "assistanceNotificationId": 31,
@@ -185,7 +188,8 @@
             "collaboratorId": 5,
             "collaborator": "Catarina",
             "cityId": 1,
-            "city": null
+            "city": null,
+          "status": 0,
         }
     ]
 
